@@ -13,4 +13,4 @@ I build production-style infrastructure projects and love turning concepts into 
 
 Reach me:  
 - Portfolio: https://shlokamdar.in  
-- LinkedIn: (your link)
+- LinkedIn: www.linkedin.com/in/shlokamdar
