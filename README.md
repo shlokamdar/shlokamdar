@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Shloka 👋
 
-<!--
-**shlokamdar/shlokamdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps enthusiast with hands-on experience in AWS, Terraform, Ansible, CI/CD pipelines, and monitoring.
+I build production-style infrastructure projects and love turning concepts into working systems.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Cloud: AWS (EC2, VPC, S3, RDS, IAM, CloudWatch)
+- IaC: Terraform
+- Configuration Management: Ansible
+- CI/CD: Jenkins, GitHub Actions
+- Monitoring & Logging: CloudWatch, ELK Stack
+- OS & Tools: Linux, Git, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Featured Projects
+- Multi-environment CI/CD pipeline using Jenkins & AWS
+- Terraform-based ALB + EC2 infrastructure
+- Ansible automation with CloudWatch monitoring
+- AWS RDS read replica monitoring setup
+
+Reach me:  
+- Portfolio: https://shlokamdar.in  
+- LinkedIn: (your link)
