@@ -24,7 +24,7 @@ Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* �
 
 ## 🛠️ Tech Stack
 
-### ** Cloud & DevOps**
+### Cloud & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
@@ -33,33 +33,33 @@ Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
-### ** CI/CD & Automation**
+### CI/CD & Automation
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
 
-### ** Programming & Scripting**
+### Programming & Scripting
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-### ** Frameworks & Tools**
+### Frameworks & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
 
-### ** Databases**
+### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-### ** Frontend Technologies**
+### Frontend Technologies
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -69,12 +69,7 @@ Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* �
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlokamdar&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokamdar&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</div>
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokamdar&theme=tokyonight&hide_border=true" width="400">
@@ -82,21 +77,14 @@ Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* �
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shlokamdar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
-</div>
-
----
-
-## 📈 Activity Graph
+##  Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlokamdar&theme=tokyo-night&hide_border=true">
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -110,7 +98,7 @@ Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* �
 
 <div align="center">
 
-### 💡 *“Learning cloud the hard way — one broken deployment at a time.”*
+###  *“Learning cloud the hard way — one broken deployment at a time.”*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shlokamdar&color=brightgreen&style=flat-square)
 
