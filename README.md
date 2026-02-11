@@ -9,20 +9,20 @@ I'm Shloka
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Cloud Engineering enthusiast** with a strong **Python + Full-Stack** foundation, currently building my way into **DevOps & Platform Engineering** ☁️⚙️  
 Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* — not just deploying and praying.
 
-- 🔭 Working on **AWS cloud infrastructure**, **Docker**, and **DevOps fundamentals**
-- 🌱 Learning **CI/CD, system design, monitoring, and reliability**
-- 👯 Open to collaborating on **cloud & DevOps projects**
-- 💬 Ask me about **Python, AWS basics, Docker, and backend systems**
-- ⚡ Fun fact: I learn best by breaking things and fixing them again
+- Working on **AWS cloud infrastructure**, **Docker**, and **DevOps fundamentals**
+- Learning **CI/CD, system design, monitoring, and reliability**
+- Open to collaborating on **cloud & DevOps projects**
+- Ask me about **Python, AWS basics, Docker, and backend systems**
+- Fun fact: I learn best by breaking things and fixing them again
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Cloud & DevOps
 <p align="left">
