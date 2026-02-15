@@ -11,7 +11,7 @@ I'm Shloka
 
 ## About Me
 
-I’m a **Cloud Engineering enthusiast** with a strong **Python + Full-Stack** foundation, currently building my way into **DevOps & Platform Engineering** ☁️⚙️  
+I’m a **Cloud Engineering enthusiast** with a strong **Python + Full-Stack** foundation, currently building my way into **DevOps & Platform Engineering** ☁️
 Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* — not just deploying and praying.
 
 - Working on **AWS cloud infrastructure**, **Docker**, and **DevOps fundamentals**
@@ -66,21 +66,6 @@ Based in 🇮🇳 **Mumbai**, I love understanding *how systems actually work* �
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokamdar&theme=tokyonight&hide_border=true" width="400">
-</div>
-
----
-
-##  Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlokamdar&theme=tokyo-night&hide_border=true">
-</div>
 
 ---
 
